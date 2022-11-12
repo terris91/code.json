@@ -1,5 +1,6 @@
+console.log('\x1b[36m', 
 [
    "xin chào chủ nhân :>",
-   "kkk",
-   "hello chủ nhân :))"
+   "Chi tiết liên hệ: https://www.facebook.com/t.hoang0901",
+   "hello chủ nhân :))",'\x1b[0m');
 ]
